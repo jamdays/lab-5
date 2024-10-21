@@ -96,7 +96,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `Main.java`
 
-  - [ ] TODO: add the Logout Use Case to the app using the appBuilder
+  - [x] TODO: add the Logout Use Case to the app using the appBuilder
 
 * * *
 
@@ -127,7 +127,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutOutputData.java`
 
-  - [ ] TODO: save the parameters in the instance variables.
+  - [x] TODO: save the parameters in the instance variables.
 
 * * *
 
